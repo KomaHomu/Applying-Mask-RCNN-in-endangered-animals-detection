@@ -22,6 +22,9 @@ The repository includes:
 * Otter
 * Rhesus monkey
 
+## Link to trained model
+https://drive.google.com/file/d/1mZXuvDaB8p-CIXcoh8F2dB2CKUTcTuGB/view?usp=share_link
+
 ## 1. Anchor sorting and filtering
 Visualizes every step of the first stage Region Proposal Network and displays positive and negative anchors along with anchor box refinement.
 ![](assets/detection_anchors.png)
