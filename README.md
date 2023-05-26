@@ -23,7 +23,7 @@ The repository includes:
 * Rhesus monkey
 
 ## Link to trained model based on its backbone:
-ResNet101: https://drive.google.com/file/d/1mZXuvDaB8p-CIXcoh8F2dB2CKUTcTuGB/view?usp=share_link
+ResNet101: https://drive.google.com/file/d/1mZXuvDaB8p-CIXcoh8F2dB2CKUTcTuGB/view?usp=share_link  
 ResNet50: https://drive.google.com/file/d/1k99kLo28DP3wfHptgPXtqevL8-4QrRhh/view?usp=share_link
 
 ## 1. Anchor sorting and filtering
