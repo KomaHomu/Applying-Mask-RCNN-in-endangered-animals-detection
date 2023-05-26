@@ -5,7 +5,7 @@ This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on P
 ![image](https://github.com/KomaHomu/Applying-Mask-RCNN-in-endangered-animals-detection/assets/92431917/9bacb207-89c4-46f5-ba9c-608dd20a299e)
 
 The repository includes:
-* Source code of Mask R-CNN built on FPN and ResNet101
+* Source code of Mask R-CNN built on FPN and ResNet101/ResNet50
 * Training code for MS COCO
 * Training code for custom animals dataset
 * Pre-trained weights for MS COCO
@@ -22,8 +22,9 @@ The repository includes:
 * Otter
 * Rhesus monkey
 
-## Link to trained model
-https://drive.google.com/file/d/1mZXuvDaB8p-CIXcoh8F2dB2CKUTcTuGB/view?usp=share_link
+## Link to trained model based on its backbone:
+ResNet101: https://drive.google.com/file/d/1mZXuvDaB8p-CIXcoh8F2dB2CKUTcTuGB/view?usp=share_link
+ResNet50: https://drive.google.com/file/d/1k99kLo28DP3wfHptgPXtqevL8-4QrRhh/view?usp=share_link
 
 ## 1. Anchor sorting and filtering
 Visualizes every step of the first stage Region Proposal Network and displays positive and negative anchors along with anchor box refinement.
